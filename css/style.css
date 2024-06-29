@@ -1,0 +1,17 @@
+* {
+  font-family: viga;
+}
+
+/* navbar style */
+.navbar-brand {
+  font-size: 30px;
+}
+
+.nav-info {
+  margin-top: 80px;
+}
+
+.home-section {
+  height: 100vh;
+  margin-top: px;
+}
